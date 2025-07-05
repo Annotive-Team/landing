@@ -813,7 +813,7 @@ export default function PhralsPlatform() {
           </form>
 
           <p className="text-xs md:text-sm text-[#2d5a2d] opacity-75 mt-4 md:mt-5 text-center">
-            Join 10,000+ eco-warriors already making a difference. Unsubscribe anytime.
+            Join  eco-warriors already making a difference. Unsubscribe anytime.
           </p>
         </div>
       </section>
